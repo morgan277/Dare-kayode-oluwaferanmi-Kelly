@@ -1,4 +1,4 @@
 # Dare-kayode-oluwaferanmi-Kelly
-Course: COS 201 — Computer Programming I
-25/18086
-computer science 
+Course: COS 201 — Computer Programming 
+Matriculation Number: 25/18086
+Programme: computer science 
